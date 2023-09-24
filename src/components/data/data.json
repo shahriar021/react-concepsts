@@ -1,0 +1,22 @@
+[
+    {
+        "name":"jon",
+        "position":"front-end engineer",
+        "salary":50000
+    },
+    {
+        "name":"rake",
+        "position":"sqa engineer",
+        "salary":12000
+    },
+    {
+        "name":"jack",
+        "position":"front-end engineer",
+        "salary":35000
+    },
+    {
+        "name":"bob",
+        "position":"back-end engineer",
+        "salary":75000
+    }
+]
